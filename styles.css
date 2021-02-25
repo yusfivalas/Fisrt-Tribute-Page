@@ -1,0 +1,44 @@
+body {
+  background-color: white;
+  text-align: center;
+}
+#main{
+  background-color: #cccccc;
+  margin: 15px 2px;
+  padding: 15px;
+  border-radius: 5px;
+}
+#title{
+  font-family: Helvetica;
+  font-size: 63px;
+}
+#img-div{
+  background-color: white;
+  padding: 10px;
+  margin: 0;
+}
+#image{
+  max-width: 100%;
+  display:block;
+  height: auto;
+  margin : 0 auto;
+}
+#img-caption{
+  font-family: Arial;
+  font-size: 15px;
+}
+#tribute-info{
+  line-height: 1.5;
+  max-width: 80%;
+  text-align: center;
+  margin: 0 auto 0px auto;
+}
+.introduction{
+  font-family: Helvetica;
+}
+.description{
+  font-family: Arial;
+}
+footer{
+  font-family: Verdana;
+}
